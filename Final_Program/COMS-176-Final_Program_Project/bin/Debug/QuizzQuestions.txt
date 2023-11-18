@@ -1,0 +1,6 @@
+What is the sum of 2 plus 2?,4;5/2:6
+What is an apple considered?,Fruit;Vegetable/Dairy:Medicine
+Which one of these can fly?,Airplane;Boat/Car:Train
+Which one of these animals live in Florida?,crocodile;Elephant/kangaroo:Orangutan
+What does a calorie represent?,A unit of energy;A unit of fat/A unit of nutrients:A unit of weight
+What is our planet called?,earth;mars/mercury:moon
